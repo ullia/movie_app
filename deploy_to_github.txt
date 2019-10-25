@@ -1,0 +1,6 @@
+// 1. npm i gh-pages => 깃허브 주소를 빌려 내프로젝트를 띄울수 있게하는 플러그인
+// 2. 설치후 package.json 에서 homepage를 추가해야함
+// 3. 설치후 package.json 에서 script를 추가함 "deploy","predeploy"
+// git remote -v => 이 명령어로 현재 연결된 깃 저장소의 주소를 볼수 있음
+// gh-pages 플러그인은 github의 username과 프로젝트의 루트 폴더 명을 조합해 url을 만들어줌
+// https://ullia.github.io/movie_app
